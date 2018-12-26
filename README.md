@@ -1,2 +1,2 @@
-# macd
-MACD trading indicator - university project
+# MACD trading indicator
+(university project)
